@@ -1,0 +1,11 @@
+{
+    "index.html": {
+        "description": "Main HTML file of the application, adhering to HTML5 standards and displaying 'Hello world' as its content."
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    },
+    ".gitignore": {
+        "description": ".gitignore with basic configuration"
+    }
+}
